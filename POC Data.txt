@@ -109,7 +109,7 @@ INSERT INTO customers VALUES
 --  Insert 2 (SCD Update)
 -- Region change for customer 103
 INSERT INTO customers VALUES
-(103, 'Charlie', 'Central', '2025-08-02 08:30:00');
+(103, 'Charlie', 'East', '2025-08-02 08:30:00');
 
 -- Name correction for customer 107
 INSERT INTO customers VALUES
